@@ -1,5 +1,5 @@
 # BankApplication
-This is basic begining project of JAVA programming
+#This is basic begining project of JAVA programming
 package college;
 import java.util.Scanner;
 public class BankApplication {
